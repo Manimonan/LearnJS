@@ -19,12 +19,12 @@
 // console.log( ` Result is : ${ Result}`)
 
 
-function Userlogin( Username){
+// function Userlogin( Username){
 
-    if (Username === undefined){
-         return ` Please enter your username`
-    }
-return ` The login username is: ${ Username}` 
+//     if (Username === undefined){
+//          return ` Please enter your username`
+//     }
+// return ` The login username is: ${ Username}` 
 
-}
-console.log( Userlogin(' Sam'));
+// }
+// console.log( Userlogin(' Sam'));
